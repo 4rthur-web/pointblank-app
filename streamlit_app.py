@@ -2,5 +2,5 @@ import streamlit as st
 
 st.title("🎈 Kalkulator Pahala")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "Anda merasa sombong karna pahala anda banyak?, ayo cek pahala anda di [docs.streamlit.io](https://docs.streamlit.io/)."
 )
